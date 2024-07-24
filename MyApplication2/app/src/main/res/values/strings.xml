@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TvList</string>
+    <string name="logoDescription">Logo of the App</string>
+    <string name="bgImageDescription">Background Image</string>
+    <string name="showImages">Image of the show</string>
+    <string name="welcomeMsg">Welcome Back!👋🏼</string>
+    <string name="login">Login👍🏽</string>
+    <string name="signup">Signup🫱🏽‍🫲🏿</string>
+    <string name="recommendMsg">Recommended for you... ✨✨</string>
+    <string name="upcoming">Upcoming⌛</string>
+    <string name="ongoing">Ongoing🕒</string>
+    <string name="completed">Completed✅</string>
+
+    <string name="home">HOME</string>
+    <string name="list">WISH LIST</string>
+    <string name="recommends">RECOMMENDS</string>
+
+    <string name="avatar_the_last_airbender">Avatar : The Last Airbender</string>
+    <string name="one_piece">One Piece</string>
+    <string name="the_office">The Office</string>
+    <string name="avatar_2024">Avatar 2024</string>
+    <string name="berlin">Berlin</string>
+    <string name="cote">COTE</string>
+    <string name="pj">Percy Jackson</string>
+    <string name="completed_series">Status : Completed Series</string>
+    <string name="status_ongoing">Status : Ongoing Series</string>
+    <string name="type_animated">Type : Animated Series</string>
+    <string name="type_anime">Type : Anime</string>
+    <string name="type_tv">Type : TV Series</string>
+</resources>

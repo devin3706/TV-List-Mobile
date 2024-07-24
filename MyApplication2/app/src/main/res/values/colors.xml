@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screenBG">#2F0915</color>
+    <color name="topAndBottomBars">#3E3939</color>
+    <color name="login">#DB9AA4</color>
+    <color name="signup">#92C0CF</color>
+    <color name="content">#33000000</color>
+    <color name="shadow">#B3000000</color>
+</resources>
